@@ -1,5 +1,6 @@
 # Java Spring Project - Note Blog "Something Learned Everyday" 
 
+
 - Main 
 <img src="https://user-images.githubusercontent.com/91655432/166606056-89c4cc52-dbca-4acb-9bc8-182b92daa27b.jpg" style="width:700px;">
 
@@ -19,4 +20,11 @@
 <img src="https://user-images.githubusercontent.com/91655432/166606368-97251bae-cc20-4945-a0fd-f2815268de92.jpg" style="width:700px;">
 
 
-
+features
+- Java, spring MVC, JSP, MYSQL
+- html, css, bootstrap
+- WYSIWYG editor - Summernote
+- login and registration with validations
+- route guards (user must be in session to access my notes, create, delete, edit pages.)
+- users can create and save contents to database, read, view, retrieve them from the database, and edit and delete contents.
+- users can write and delete comments on posts(notes).
