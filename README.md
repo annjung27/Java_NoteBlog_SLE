@@ -1,6 +1,6 @@
 #  Project - "Something Learned Everyday" 
 
-Note Taking Blog 
+## Note Taking Blog 
 
 Features
 - Java, spring MVC, JSP, MYSQL
