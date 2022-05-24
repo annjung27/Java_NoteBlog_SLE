@@ -8,7 +8,7 @@ Features
 - WYSIWYG editor / RTF 
 - login and registration with validations
 - route guards (user must be in session to access my notes, create, delete, edit pages.)
-- users can create and save contents to database, read, view, retrieve them from the database, and edit and delete contents.
+- Full CRUD - users can create and save contents to database, read, view, retrieve them from the database, and edit and delete contents.
 - users can write and delete comments on posts(notes).
 
 # 
