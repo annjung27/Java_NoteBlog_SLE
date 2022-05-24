@@ -1,4 +1,4 @@
-# Full Stack Java Project - "Something Learned Everyday" 
+#  Java Project - "Something Learned Everyday" 
 
 ## Note Taking Blog 
 
