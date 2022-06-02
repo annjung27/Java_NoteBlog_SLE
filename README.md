@@ -2,7 +2,8 @@
 
 ## Note Taking Blog 
 
-Website URL:  http://13.56.211.67
+Website URL: http://3.101.60.203
+
 
 Features
 - Java, spring MVC, JSP, MYSQL
