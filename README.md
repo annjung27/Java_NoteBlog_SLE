@@ -7,7 +7,7 @@ Website URL: http://3.101.60.203
 
 Features
 - Java, spring MVC, JSP, MYSQL
-- html, css, bootstrap
+- css, bootstrap
 - WYSIWYG editor / RTF 
 - login and registration with validations
 - route guards (user must be in session to access my notes, create, delete, edit pages.)
