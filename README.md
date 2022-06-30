@@ -5,7 +5,7 @@
 Website URL: http://3.101.60.203
 
 
-Features
+Technologies and Features
 - Java, spring MVC, JSP, MYSQL
 - css, bootstrap
 - WYSIWYG editor / RTF 
