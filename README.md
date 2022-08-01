@@ -1,15 +1,13 @@
 #  Java Project - "Something Learned Everyday" 
 
-## Note Taking Blog 
+## Java Spring based note taking blog app for users to write, save and share notes about their daily learning.
 
 Technologies and Features
-- Java, spring MVC, JSP, MYSQL
-- css, bootstrap
-- WYSIWYG editor / RTF 
-- login and registration with validations
-- route guards (user must be in session to access my notes, create, delete, edit pages.)
-- Full CRUD - users can create and save contents to database, read, view, retrieve them from the database, and edit and delete contents.
-- users can write and delete comments on posts(notes).
+- Java, spring MVC, JSP, MYSQL, Bootstrap
+- Full stack Java application with full crud feature using Spring MVC and REST API for users to manage their notes and comment on other user’s notes.
+- Login and registration with validations to enhance security and accountability. 
+- Route guards for private pages (user must be in session to access my notes, create, delete, edit pages.)
+- WYSIWYG user interface utilizing the rich text editor for users to edit their notes and add images fast and easy.
 
 # 
  ### Main 
